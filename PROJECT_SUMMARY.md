@@ -928,5 +928,5 @@ hydra -l anonymous -P wordlist.txt ftp://192.168.18.203
 **End of Document**
 
 For questions, issues, or contributions:  
-GitHub: https://github.com/yourusername/adaptive-threat-detection  
-Email: your.email@example.com
+GitHub: https://github.com/aalokdhami/Network-Threat-Detection-
+Email: iamaalok03@gmail.com
