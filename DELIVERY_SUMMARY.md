@@ -289,7 +289,7 @@ Create `screenshots/` folder and add:
    - IEEE citation format
 
 4. **GitHub Repository Link**:
-   - In your report, include: "Complete source code available at: https://github.com/YOURUSERNAME/adaptive-threat-detection"
+   - In your report, include: "Complete source code available at: https://github.com/aalokdhami/Network-Threat-Detection-
 
 ---
 
