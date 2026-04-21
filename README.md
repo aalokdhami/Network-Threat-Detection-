@@ -474,7 +474,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [GitHub Profile](https://github.com/yourusername)
+- Alok Bahadur Dhami - *Initial work* - [GitHub Profile]: https://github.com/aalokdhami 
 
 ---
 
@@ -491,7 +491,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or support, please open an issue or contact: your.email@example.com
+For questions or support, please open an issue or contact: iamaalok03@gmail.com
 
 ---
 
